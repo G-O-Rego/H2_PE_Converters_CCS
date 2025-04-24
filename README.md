@@ -1,0 +1,2 @@
+- This repository is meant to keep an updated version of the code developed and implemented on a real-life prototype, via a microcontroller (TI F280027 LaunchPad) to control 3 PE converters that are capable of interfacing RES, ESS and an Electrolyser to produce Green Hydrogen.
+- This is part of my university project, and is constantly being upgraded and updated.
